@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
+
+def librarys = rootProject.ext.supportDependencies
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    buildToolsVersion  rootProject.ext.android.buildToolsVersion
+    defaultConfig {
+        applicationId "sinosoft.com.mynet"
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled rootProject.ext.MINIFY_DISABLED
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+configurations.all {
+    resolutionStrategy.force 'com.google.code.findbugs:jsr305:1.3.9'
+}
+
+greendao {
+    schemaVersion 1
+    daoPackage 'com.anye.greendao.gen'
+    targetGenDir 'src/main/java'
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile librarys.supportAppcompat
+    compile librarys.supportV4
+    compile librarys.suppoutDesign
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile 'org.greenrobot:greendao:3.2.0'
+    compile'org.greenrobot:greendao-generator:+'
+
+    /*rx-android-java*/
+    compile 'io.reactivex:rxjava:+'
+    compile 'com.squareup.retrofit:adapter-rxjava:+'
+    compile 'com.trello:rxlifecycle:+'
+    compile 'com.trello:rxlifecycle-components:+'
+    /*rotrofit*/
+    compile 'com.squareup.retrofit2:retrofit:+'
+    compile 'com.squareup.retrofit2:converter-gson:+'
+    compile 'com.squareup.retrofit2:adapter-rxjava:+'
+    compile 'com.google.code.gson:gson:+'
+    compile 'com.squareup.okhttp3:logging-interceptor:+'
+
+
+}

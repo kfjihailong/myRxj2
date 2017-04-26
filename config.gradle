@@ -1,0 +1,22 @@
+ext {
+
+    android = [
+            compileSdkVersion: 25,
+            buildToolsVersion: "25.0.2",
+            minSdkVersion    : 15,
+            targetSdkVersion : 25
+    ]
+
+    supportLibrary = "25.1.0"
+
+    // 设置是否使用混淆
+    MINIFY_ENABLED = true
+
+    MINIFY_DISABLED = false
+
+    supportDependencies = [
+            supportAppcompat: "com.android.support:appcompat-v7:${supportLibrary}",
+            supportV4       : "com.android.support:support-v4:${supportLibrary}",
+            suppoutDesign   : "com.android.support:design:${supportLibrary}"
+    ]
+}

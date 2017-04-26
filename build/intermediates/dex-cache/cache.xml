@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/freemarker-2.3.23_e2fb64ad7e116a7a0a97a82fa02d42a450e26d3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/68ea9ec53d2720bb513f828b6ec64cbd60fbd6a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41a4f5cf96934ab2470abfdc1570136e7aa9c742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_dd6d0bf520e296f8dbf8fbbf8fc6b55acd714c95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/91c7997ae07c6ef66a27b2dad3048768c466f507/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0043013a41185758d946aff8c0963715cc916c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0-beta2_ac02ab1efd4c76005c8babfc691191aaccc0917c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/102d9f26204751befaa13721f317b5d2cb1ab83f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75a9ef11059ba9bc290139aca009e99dbb3b37c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/ea019041f933426b5ef2a5b60a6edec44eeaac89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb4600ccb77c9aa382a87cd681b88b7bc8257599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/308cadda7ba5c04a2a9b967ff04a3e97e7435324/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fff4a5e780c173944a883f459775bbffcc1b0a13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/e5ce8622420f4a0abc2cdd7f8119c79b93802ea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9473e791696fca728c786ffa9f1f5f34db21053c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/1094e10769bdbee70ea8357a4728cecd7217b576/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8f43f25a48bd86068edf4c23a7551d2d8c5ca94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/1.0/6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb/rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxlifecycle-1.0_14b99906c3b352e101dcbead2cc0c064efeb2639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.9/cc0d879e3c75fe106aed3651fbdaebe628ac67ef/rxjava-1.2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc0d879e3c75fe106aed3651fbdaebe628ac67ef">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.9_2c7d57bac462b974f5113aa02000ba36e9f14d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_2d64abbeedb659eddee7bfc9192c5fa091b7df47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.7.0_d02dcec7814dbe37daeb513bcfa428451f65f596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/f2396528bd3dbae230202a3af42e451001b14fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b940ff1a27c152aa903b4f0c646b8e7a56e4033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/e8b95b9a341bf87a5c949698c7514c0427111462/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d447737eb3a625215ab7a25dd227073dc6ea2c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/d25da9b7b7f0a62556a845b3c81f0d30854262af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db94b78382b70542e39ac87d225d50395d09679a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/Downloads/MyNet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a31c3b61547e02917430e9d2a66fd075db46172d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.0/c6d610abe1d75d758431c9234917a349abc0a0ac/greendao-api-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.2.0_c21bff2111cd778fa2ce5c0c4019750f085bdb9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_4e78ac47e5805e16ce9c22b13ce20570c3897299/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/79bc293ddd68fbd231bd73964005adef77b1330a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c24c1c0b529565586898963a7c1bc5cb191971a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_ff352aca45cf8fe9117f7b53e231838451269d45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/1a4c97c9307cf848dc184f415766e2a4895a5ed6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39d9d917ad17c631aff11ca13cd945ceb5da5a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.2.0_2d4a8eadafa4c5398d6bdcceeb69669c7e73e7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/78686d5319643a4fe7bbc381cc7a89e43e73145f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bd0bbbb03444579613c04754382a50c7148ac49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_56dc86a5aec9371d8ab8133ecd8edb220c5ad150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/8ac763cb19566699a0898a0b631ca6afeebc1557/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f5e039868227d4913c8fa6d814d692b77ecbdee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_2409dac322e09c4bb2881e40a62bd168ce887650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.0/e70040568b2929b8e5869ad1ffca8e4386dc53bc/greendao-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.2.0_45a93167aa4003cdf6640ca6497e67b2143c5270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.2.2/c1d222f0f518f6d32150c566ef378e0dcba8de1e/greendao-generator-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1d222f0f518f6d32150c566ef378e0dcba8de1e">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-generator-3.2.2_703dc146d46a61aabb635f76caf6d55f6d404fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/db9482b7886949a5d2db8c9779cbc010a573664d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91d66fb5dd603767a25f16c93c49102dc98fdce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.7.0/9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734/logging-interceptor-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.7.0_4b07f23abc6a9f1f2d7b67dbc98d37923d0873e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/Downloads/MyNet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9849d61964f025eb5814458bd8b30701bf1c29a3">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69602286d0a1f9744535885f6355d74bfb94f98f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_bee420a2f2a7f006451407972349434972e99bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_50773bd182f0b05a53df54c5ada815e530c17072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ji94/.android/build-cache/05d2af94f38348a0da634002f2d265ae0e193d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="/Users/ji94/Downloads/MyNet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbf1d84ff7fa690759d020238445eaee8a2ea3b1/classes.dex" />
+    </item>
+
+</items>
